@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="full_name">Gawish</string>
+    <string name="position">Java Developer</string>
+    <string name="telegram_profile">\@llummin</string>
+    <string name="phone_number">+799633038564</string>
+    <string name="github_profile">\@llummin</string>
+</resources>
